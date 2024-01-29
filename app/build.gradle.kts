@@ -54,4 +54,8 @@ dependencies {
     // coroutine
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2")
+
+    //location
+    implementation("com.google.android.gms:play-services-maps:17.0.1")
+
 }
